@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --port 8050",
+    "start": "webpack-dev-server ",
     "production": "webpack -p"
   },
   "author": "Julian Skinner <ju.skinner@gmail.com>",
